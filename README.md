@@ -30,7 +30,7 @@ Pixel Grid: The most precise mode, reproducing the image pixel-by-pixel.
 👁️ User-Friendly Overlay: A draggable, semi-transparent overlay lets you perfectly position your drawing on the in-game canvas.
 
 📥 Download
-Download the latest version from MediaFire | https://www.mediafire.com/file/efdvfl8nfxjqzgo/autodrawer_app3.exe/file
+Download the latest version from Release | https://github.com/StaLLyyyy/AutoDrawerRobloxPython/releases/tag/AutoDrawerRoblox
 
 📋 How to Use
 Download and run autodrawer_app3.exe.
@@ -72,7 +72,7 @@ End: Emergency Stop
 👁️ Удобный оверлей: Перетаскиваемый полупрозрачный оверлей позволяет идеально расположить рисунок на игровом холсте.
 
 📥 Скачать
-Скачать последнюю версию с MediaFire | https://www.mediafire.com/file/efdvfl8nfxjqzgo/autodrawer_app3.exe/file
+Скачать последнюю версию с Release | https://github.com/StaLLyyyy/AutoDrawerRobloxPython/releases/tag/AutoDrawerRoblox
 
 📋 Как использовать
 Скачайте и запустите autodrawer_app3.exe.
